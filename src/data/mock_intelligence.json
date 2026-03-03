@@ -1,0 +1,32 @@
+{
+  "heatmap": [
+    { "sector": "Generative AI", "funding": 4500, "growth": 120 },
+    { "sector": "Climate Tech", "funding": 2100, "growth": 45 },
+    { "sector": "Fintech", "funding": 3200, "growth": -10 },
+    { "sector": "HealthTech", "funding": 1800, "growth": 15 },
+    { "sector": "Web3", "funding": 600, "growth": -40 },
+    { "sector": "SpaceTech", "funding": 1200, "growth": 80 },
+    { "sector": "Cybersecurity", "funding": 2800, "growth": 35 }
+  ],
+  "investor_feed": [
+    { "id": 1, "investor": "Sequoia Capital", "action": "Led Series A", "startup": "NeuroGen", "sector": "AI", "amount": "$45M", "time": "2h ago" },
+    { "id": 2, "investor": "Andreessen Horowitz", "action": "Seed", "startup": "ChainAuth", "sector": "Web3", "amount": "$12M", "time": "4h ago" },
+    { "id": 3, "investor": "Founders Fund", "action": "Participated", "startup": "OrbitX", "sector": "SpaceTech", "amount": "Undisclosed", "time": "5h ago" },
+    { "id": 4, "investor": "Lightspeed", "action": "Led Series B", "startup": "MedLync", "sector": "HealthTech", "amount": "$60M", "time": "1d ago" },
+    { "id": 5, "investor": "Benchmark", "action": "Led Seed", "startup": "DataStack", "sector": "DevTools", "amount": "$8M", "time": "1d ago" }
+  ],
+  "trends": [
+    { "month": "Jan", "AI": 120, "Climate": 80, "Fintech": 150 },
+    { "month": "Feb", "AI": 150, "Climate": 90, "Fintech": 140 },
+    { "month": "Mar", "AI": 200, "Climate": 110, "Fintech": 130 },
+    { "month": "Apr", "AI": 280, "Climate": 115, "Fintech": 125 },
+    { "month": "May", "AI": 350, "Climate": 130, "Fintech": 110 },
+    { "month": "Jun", "AI": 420, "Climate": 160, "Fintech": 105 }
+  ],
+  "sentiment": {
+    "overall": 78,
+    "label": "Bullish",
+    "top_keywords": ["LLMs", "AGI", "Clean Energy", "DeFi Regulations"],
+    "shift_from_last_month": "+12%"
+  }
+}
